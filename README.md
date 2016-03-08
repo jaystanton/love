@@ -1,4 +1,1 @@
-# love
-
-hyh
-dsfsdf
+Game prototype using LOVE
